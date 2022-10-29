@@ -9,6 +9,6 @@ I worked with Python libraries like SciPy and scikit-learn and applied my knowle
 ## Contents of the repository
 
 1. Multiple Linear Regression
-2. Reg-NoneLinearRegression
+2. Non Linear Regression Analysis
 3. Polynomial Regression
 
