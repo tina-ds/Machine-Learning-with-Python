@@ -7,3 +7,6 @@ Then I dove into classification techniques using different classification algori
 I worked with Python libraries like SciPy and scikit-learn and applied my knowledge through works. In the final project I demonstrated my skills by building, evaluating and comparing several Machine Learning models using different algorithms. 
 
 ## Contents of the repository
+
+1. Multiple Linear Regression
+
