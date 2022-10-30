@@ -14,4 +14,5 @@ I worked with Python libraries like SciPy and scikit-learn and applied my knowle
 4. K-Nearest Neighbors
 5. Decision Trees
 6. Logistic Regression with Python
+7. SVM (Support Vector Machines)
 
