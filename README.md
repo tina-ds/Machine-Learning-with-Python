@@ -16,4 +16,5 @@ I worked with Python libraries like SciPy and scikit-learn and applied my knowle
 6. Logistic Regression with Python
 7. SVM (Support Vector Machines)
 8. K-Means Clustering
+9. Hierarchical Clustering
 
