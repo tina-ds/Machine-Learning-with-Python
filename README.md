@@ -17,4 +17,5 @@ I worked with Python libraries like SciPy and scikit-learn and applied my knowle
 7. SVM (Support Vector Machines)
 8. K-Means Clustering
 9. Hierarchical Clustering
+10. Density-Based Clustering (DBSCAN)
 
