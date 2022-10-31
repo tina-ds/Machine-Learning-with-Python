@@ -20,4 +20,5 @@ I worked with Python libraries like SciPy and scikit-learn and applied my knowle
 10. Density-Based Clustering (DBSCAN)
 11. Content Based Filtering (RecSys)
 12. Collaborative Filtering (RecSys)
+13. Classification with Python (Final Project)
 
