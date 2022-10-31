@@ -18,4 +18,5 @@ I worked with Python libraries like SciPy and scikit-learn and applied my knowle
 8. K-Means Clustering
 9. Hierarchical Clustering
 10. Density-Based Clustering (DBSCAN)
+11. Content Based Filtering (RecSys)
 
